@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/darkish1990/just-another-node#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
